@@ -1,6 +1,6 @@
 ### Hi stranger (or a friend)! 👋
 
-Hopefully going to fill here with more interesting stuff soon! 
+I am an undergraduate student from the University of Edinburgh studying AI & CS.  
 
 <!--
 **HelloYuiYui/HelloYuiYui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
